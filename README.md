@@ -1,2 +1,2 @@
-# MSc Homework Projects
+# BSc Homework Projects
 
